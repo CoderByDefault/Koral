@@ -31,7 +31,7 @@ sudo apt-get -y install git unzip maven metis
 
 Now, you can clone the Koral git repository, change into it
 ```
-git clone https://github.com/Institute-Web-Science-and-Technologies/koral.git
+git clone https://github.com/CoderByDefault/Koral.git
 cd koral
 ```
 and build Koral
